@@ -1,0 +1,2 @@
+factor_id,description,value,unit,gases,gwp_basis,source,source_year,source_reference,geography,valid_from,valid_to,uncertainty_pct,status
+EF-0001,Natural gas (gross CV),0,kgCO2e/kWh,CO2e,AR5,UK Government GHG Conversion Factors,2025,Fuels > Gaseous fuels > Natural gas,GB,2025-01-01,2025-12-31,,active

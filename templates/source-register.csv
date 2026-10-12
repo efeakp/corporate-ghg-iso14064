@@ -1,0 +1,2 @@
+source_id,category,ghgp_scope_mapping,description,entity_id,gases,significant,significance_criteria_met,method_tier,data_owner,exclusion_reason
+C1-01,1,Scope 1,Natural gas boilers,E-01,"CO2;CH4;N2O",TRUE,direct,C,Facilities,

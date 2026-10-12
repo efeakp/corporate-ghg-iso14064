@@ -1,0 +1,2 @@
+entity_id,legal_name,country,ownership_pct,operational_control,financial_control,included,inclusion_pct,exclusion_reason,change_type,change_effective_date
+E-01,Example Ltd,GB,100,TRUE,TRUE,TRUE,100,,,

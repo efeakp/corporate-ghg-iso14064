@@ -1,0 +1,7 @@
+site/
+.venv/
+__pycache__/
+~$*
+.DS_Store
+# Source evidence lives in the controlled document store, not here
+evidence/

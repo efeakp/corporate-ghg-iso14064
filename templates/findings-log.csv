@@ -1,0 +1,2 @@
+finding_id,reporting_year,raised_by,date_raised,type,category,source_id,description,impact_tco2e,root_cause,corrective_action,owner,github_issue,resolving_pr,status,date_closed,verifier_accepted
+F-001,FY2025,Verifier,,misstatement|non-conformity|observation,,,,,,,,#,#,open,,

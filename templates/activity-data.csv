@@ -1,0 +1,2 @@
+row_id,reporting_year,source_id,entity_id,period_start,period_end,quantity,unit,factor_id,method_tier,is_estimate,estimate_method,evidence_id,data_owner,notes
+AD-0001,FY2025,C1-01,E-01,2025-01-01,2025-01-31,0,kWh (gross CV),EF-0001,C,FALSE,,EV-0001,Facilities,

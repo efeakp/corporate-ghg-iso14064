@@ -1,0 +1,47 @@
+site_name: Corporate GHG Accounting (ISO 14064)
+docs_dir: docs
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.indexes
+    - search.highlight
+markdown_extensions:
+  - tables
+  - admonition
+  - attr_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+nav:
+  - Home: index.md
+  - Overview:
+      - ISO 14064 family: 00-overview/iso-14064-family.md
+      - Principles: 00-overview/principles.md
+      - Glossary: 00-overview/glossary.md
+  - Inventory design:
+      - Organisational boundary: 01-inventory-design/organisational-boundary.md
+      - Reporting boundary: 01-inventory-design/reporting-boundary.md
+      - Significance assessment: 01-inventory-design/significance-assessment.md
+      - Base year: 01-inventory-design/base-year.md
+  - Quantification:
+      - Emission categories: 02-quantification/emission-categories.md
+      - Methodology: 02-quantification/methodology.md
+      - Emission factors: 02-quantification/emission-factors.md
+      - Uncertainty: 02-quantification/uncertainty.md
+  - Data management:
+      - Inventory management plan: 03-data-management/inventory-management-plan.md
+      - Data quality & QA/QC: 03-data-management/data-quality.md
+      - Decision log: 03-data-management/decision-log.md
+  - Reporting:
+      - GHG report template: 04-reporting/ghg-report-template.md
+  - Verification:
+      - Process: 05-verification/verification-process.md
+      - Readiness checklist: 05-verification/verification-readiness-checklist.md
+      - GHG statement template: 05-verification/ghg-statement-template.md
+  - Validation:
+      - Forward-looking claims: 06-validation/validation-process.md
