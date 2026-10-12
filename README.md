@@ -36,15 +36,18 @@ with **ISO 14064-3:2019**.
 │   ├── 05-verification/
 │   └── 06-validation/
 ├── templates/               # CSV registers: activity data, factors, findings…
-├── inventory/               # One folder per reporting year (data + evidence index)
+├── inventory/               # Anonymised examples only; real data is in a private repo
 ├── .github/                 # Issue templates, PR template, docs workflow
 └── mkdocs.yml
 ```
 
 ## Working in this repository
 
-- **One reporting year per folder** under `inventory/` (e.g. `inventory/FY2025/`).
-  Copy the CSVs from `templates/` to start a year.
+- **Keep real data private.** This repository holds the methods and
+  templates. Each year's inventory data lives in a separate **private**
+  repository, one folder per reporting year (e.g. `inventory/FY2025/`),
+  started from the CSVs in `templates/`. The data repository records which
+  commit or tag of these methods it applied.
 - **Every change goes through a pull request.** The PR history is the audit
   trail a verifier will ask for (who changed what, when, and why).
 - **Tag the version that was verified** (e.g. `FY2025-verified`), so the

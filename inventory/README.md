@@ -1,5 +1,6 @@
 # Inventory years
 
-Create one folder per reporting year (e.g. `FY2025/`) and copy the CSV
-templates from `../templates/` into it. Tag the verified state as
-`FY2025-verified`.
+Real inventory data is **not** kept in this public repository. It lives in
+a separate private repository with the same `inventory/FYxxxx/` layout.
+
+Use this folder only for anonymised worked examples, if any.
