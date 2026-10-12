@@ -68,3 +68,15 @@ site to GitHub Pages on every push to `main`.
 ## Status
 
 Living document. See [`CHANGELOG.md`](CHANGELOG.md).
+
+## Licence
+
+© 2026 Efe Akpovwovwo. This work is licensed under the
+[Creative Commons Attribution 4.0 International licence (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+You may share and adapt it for any purpose, provided you give appropriate
+credit, link to the licence and indicate if changes were made. See
+[`LICENSE`](LICENSE).
+
+The licence covers this repository's own content only. It does not cover the
+ISO standards, which remain © ISO, or any third-party emission-factor
+datasets referenced here, which remain subject to their own terms.

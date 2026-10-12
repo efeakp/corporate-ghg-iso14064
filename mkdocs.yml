@@ -1,5 +1,9 @@
 site_name: Corporate GHG Accounting (ISO 14064)
 docs_dir: docs
+repo_url: https://github.com/efeakp/corporate-ghg-iso14064
+copyright: >-
+  © 2026 Efe Akpovwovwo ·
+  <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
 theme:
   name: material
   features:
